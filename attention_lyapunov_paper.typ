@@ -291,4 +291,6 @@ I have developed the first Lyapunov exponent framework for attention composition
 
 *Code availability:* #link("https://github.com/Tylerbryy/lyapunov-attention")[github.com/Tylerbryy/lyapunov-attention]
 
+*DOI:* #link("https://doi.org/10.5281/zenodo.18202128")[10.5281/zenodo.18202128]
+
 #bibliography("references.bib", style: "ieee")
