@@ -289,6 +289,6 @@ This is qualitatively different from RNNs (which can be chaotic with $Lambda > 0
 
 I have developed the first Lyapunov exponent framework for attention composition, bridging transformer theory with dynamical systems. The novel contributions include: (1) first computation of the full Lyapunov spectrum for attention products; (2) discovery of non-commutative Lyapunov structure unique to attention; (3) quantification of temperature effects on collapse rates; (4) refined closed-form formula for collapse depth prediction; (5) precise characterization of how residual connections prevent collapse.
 
-*Code availability:* #link("https://github.com/tylergibbs/lyapunov-attention")[github.com/tylergibbs/lyapunov-attention]
+*Code availability:* #link("https://github.com/Tylerbryy/lyapunov-attention")[github.com/Tylerbryy/lyapunov-attention]
 
 #bibliography("references.bib", style: "ieee")
